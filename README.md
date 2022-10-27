@@ -9,3 +9,4 @@ $ git status //查看本地自己修改了多少文件
 $ git add . //添加远程不存在的git文件
 $ git commit * -m "what I want told to someone"
 $ git push origin master //更新到远程服务器上
+remote_theme: benbalter/retlab
